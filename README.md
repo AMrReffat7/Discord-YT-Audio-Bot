@@ -50,4 +50,3 @@ Contributions welcome! Fork the repository, add your beats, and send a pull requ
 
 ## Feedback
 Got ideas or issues? Share them in the issues section. Let's make this bot even better!
-```
