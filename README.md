@@ -1,4 +1,3 @@
-```markdown
 # Discord YT Audio Bot
 
 ## Description
